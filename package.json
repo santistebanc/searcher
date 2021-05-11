@@ -14,7 +14,7 @@
     "event-stream": "^4.0.1",
     "flexsearch": "^0.6.32",
     "fs": "^0.0.1-security",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "pouchdb": "^7.1.1",
     "pouchdb-adapter-memory": "^7.1.1",
     "pouchdb-browser": "^7.1.1",
